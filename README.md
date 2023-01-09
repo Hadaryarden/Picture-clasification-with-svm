@@ -1,2 +1,2 @@
 # Picture-clasification-with-svm
-picture classification with svm including kernels(linear, poly, rbf) and cross validation
+Picture classification with svm including kernels(linear, poly, rbf) and cross validation
